@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./piiixpontificis01ixgoog_0389.png"; bbox 0 0 3292 5275; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 732 1597 2371 1742">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 732 1597 2371 1742">
+     <span class='ocr_line' id='line_1_1' title="bbox 732 1597 2371 1742; baseline 0 -8"><span class='ocrx_word' id='word_1_1' title='bbox 732 1597 1668 1742; x_wconf 83' lang='lat' dir='ltr'>PONTIFICIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1759 1599 2371 1738; x_wconf 82' lang='grc' dir='ltr'>ΜΑΧΙΜΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1197 1934 1844 2187">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1197 1934 1844 2187">
+     <span class='ocr_line' id='line_1_2' title="bbox 1197 1934 1844 2187; baseline 0 -3"><span class='ocrx_word' id='word_1_3' title='bbox 1197 1934 1844 2187; x_wconf 44' lang='lat' dir='ltr'>&#39;ACTA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1226 2906 1907 3000">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1226 2906 1907 3000">
+     <span class='ocr_line' id='line_1_3' title="bbox 1226 2906 1907 3000; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1226 2906 1511 3000; x_wconf 86' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1554 2906 1907 3000; x_wconf 87' lang='lat' dir='ltr'><strong>PRIMA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 364 637 2758 4473">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 364 637 2758 4473">
+     <span class='ocr_line' id='line_1_4' title="bbox 364 637 2758 4473; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 364 637 2758 4473; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
